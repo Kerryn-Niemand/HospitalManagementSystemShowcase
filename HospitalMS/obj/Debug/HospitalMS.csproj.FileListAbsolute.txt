@@ -1,0 +1,15 @@
+D:\Showcase\HospitalMS\bin\Debug\HospitalMS.exe
+D:\Showcase\HospitalMS\bin\Debug\HospitalMS.exe.config
+D:\Showcase\HospitalMS\obj\Debug\HospitalMS.csproj.AssemblyReference.cache
+D:\Showcase\HospitalMS\obj\Debug\HospitalMS.csproj.SuggestedBindingRedirects.cache
+D:\Showcase\HospitalMS\obj\Debug\HospitalMS.Diagnosis.resources
+D:\Showcase\HospitalMS\obj\Debug\HospitalMS.Doctor.resources
+D:\Showcase\HospitalMS\obj\Debug\HospitalMS.Home.resources
+D:\Showcase\HospitalMS\obj\Debug\HospitalMS.Login.resources
+D:\Showcase\HospitalMS\obj\Debug\HospitalMS.Patient.resources
+D:\Showcase\HospitalMS\obj\Debug\HospitalMS.Properties.Resources.resources
+D:\Showcase\HospitalMS\obj\Debug\HospitalMS.csproj.GenerateResource.cache
+D:\Showcase\HospitalMS\obj\Debug\HospitalMS.csproj.CoreCompileInputs.cache
+D:\Showcase\HospitalMS\obj\Debug\HospitalMS.exe
+D:\Showcase\HospitalMS\obj\Debug\HospitalMS.pdb
+D:\Showcase\HospitalMS\bin\Debug\HospitalMS.pdb
